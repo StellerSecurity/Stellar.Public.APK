@@ -1,1 +1,4 @@
 .idea
+
+# Markdown documentation stays local and must not be committed to GitHub.
+*.[mM][dD]
